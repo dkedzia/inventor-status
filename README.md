@@ -3,7 +3,7 @@
 
 ### Legend
 ✅ - Less than 1 fail for 100 attempts  
-⚡ - Almost works. 2 - 20 fails for 100 attempts  
+⚡ - Almost works. 1 - 20 fails for 100 attempts  
 ⭕ - Barely works. 21 - 99 fails for 100 attempts  
 ❌ - Doesn't work.  
 ⛔ - Doesn't apply.
